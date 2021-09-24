@@ -1,8 +1,5 @@
-<<<<<<< HEAD
 I'm going on an okay and maybe sad adventure. Womp womp.
-=======
-I'm going on a FREAKING adventure!!!!!!!!1!
->>>>>>> b5a83e0d68d595a58b5ca21645d704f0bd169c31
+
 Socrates
 Joan of Arc
 Abraham Lincoln
